@@ -1,0 +1,10 @@
+Last Tuesday there was a meeting and Sachin was also there. There is an approval required for this project. Once approval is in place, then we can proceed with the POC next steps.
+EMR - less Costly
+Data Injection - Scoop -  Can be used = It would be cheaper
+Glue - is server less service - Costly than EMR - Last discussion EMR was being finalized 
+
+Snowflake or Red Shift - Data warehousing - Analytics
+
+Amazon Sage maker or Lambda 
+
+Qliksense - 
