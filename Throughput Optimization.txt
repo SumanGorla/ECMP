@@ -8,3 +8,5 @@ Snowflake or Red Shift - Data warehousing - Analytics
 Amazon Sage maker or Lambda 
 
 Qliksense - 
+
+Sample addition
